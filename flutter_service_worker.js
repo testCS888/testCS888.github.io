@@ -165,11 +165,12 @@ const RESOURCES = {
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/loading.gif": "950265cdf65d152bf3c7d8bb87b2a117",
+"icons/logo.jpg": "0c95019134d8fd2304e70cdb3bc3c94d",
 "icons/logo.png": "6f283c04a641e912c013e4f7af67979a",
-"index.html": "2a526ace0ba64d369f6d213cec3af242",
-"/": "2a526ace0ba64d369f6d213cec3af242",
+"index.html": "39c165b09d44b16e1c9e6de69d19ec60",
+"/": "39c165b09d44b16e1c9e6de69d19ec60",
 "logo.png": "6f283c04a641e912c013e4f7af67979a",
-"main.dart.js": "6392da8e5c191369ebb5a141b1240674",
+"main.dart.js": "5d1fa062a3be9fd17ee1076cb9e04d40",
 "manifest.json": "dddf31a43c502bc2f0cd396990d78abb",
 "version.json": "2df2fecd4c6b17d5f3aa900da53738d0"
 };
