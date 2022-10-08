@@ -149,7 +149,7 @@ const RESOURCES = {
 "assets/images/yanhua6.png": "d3784114e502942b7ec8f03762ce9cf0",
 "assets/images/yinhuashu.png": "46d26bbc8c2d551a57fefeab2bdf5011",
 "assets/images/yiyuan.png": "dde13d340fc01f9300a94fff6cd4b42a",
-"assets/NOTICES": "9e6d47e207a3ff522dca4859de234129",
+"assets/NOTICES": "a5e8d5889de6568f4165e58bc71b4bd2",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
@@ -166,10 +166,10 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/loading.gif": "950265cdf65d152bf3c7d8bb87b2a117",
 "icons/logo.png": "6f283c04a641e912c013e4f7af67979a",
-"index.html": "4c4fe2996f881dd11dc33044f621ecf4",
-"/": "4c4fe2996f881dd11dc33044f621ecf4",
+"index.html": "0357cbbe634a3472070a23932ffc5a6c",
+"/": "0357cbbe634a3472070a23932ffc5a6c",
 "logo.png": "6f283c04a641e912c013e4f7af67979a",
-"main.dart.js": "7ea9cfa64ab04a9388a1e5952b5340f2",
+"main.dart.js": "d928716bdb3f1e875d61f5992f291ac7",
 "manifest.json": "dddf31a43c502bc2f0cd396990d78abb",
 "version.json": "2df2fecd4c6b17d5f3aa900da53738d0"
 };
